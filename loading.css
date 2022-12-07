@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+.loading{
+    width: 30%;
+    height: 30%;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%)
+
+}
+#para{
+    color:aliceblue;
+    width: 30%;
+    height: 30%;
+    position:absolute;
+    top: 20%;
+    bottom: 80%;
+    right: 56%;
+    left: 44%;
+}
